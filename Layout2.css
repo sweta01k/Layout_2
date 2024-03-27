@@ -1,0 +1,156 @@
+@media screen and(max-width:1400px) {
+    .box .text1 .company .name .picture .text2
+    .righttext .text3 .about .pre .text4 .contact
+    .mail .example .our .one .services .pre2 .two
+    .services2 .pre3 .three .services3 .pre4 .line
+    {
+        width: 576px;
+        height: 576px;
+    }
+}
+.main{
+    display:contents;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: -18%;
+}
+.box{
+    background-color:  rgb(57, 130, 133);
+    box-shadow:inset 10px 10px 5px rgb(46, 45, 45);
+    width: 75px;
+    height: 75px;
+    margin-left: 2.5%;
+    margin-top: 5%;
+}
+.text1{
+    margin-top: -4.5%;
+}
+.company{
+    font-size: 50;
+    color:  rgb(222, 110, 6);
+    font-weight: 500;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    margin-left: 9.7%;
+
+}
+.name{
+    font-size: 50;
+    color: black;
+    letter-spacing: 1px;
+}
+.picture{
+    margin-top: -12%;
+    background-image: url(layout2bgimg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+}
+.text2{
+    background-color: rgb(57, 130, 133);
+    width: 320px;
+    height: 400px;
+    position: relative;
+    left: 70%;
+    text-align: center;
+    opacity: 0.8;
+    margin-top: -12.9%;
+    border-bottom-left-radius: 160px;
+    border-bottom-right-radius: 160px;
+}
+.righttext{
+    font-size: 42;
+    color: white;
+    font-weight: 800;
+}
+.text3{
+    background-color:  rgb(57, 130, 133);
+    margin-left: 65%;
+    margin-right: 9%;
+    height: 250px;
+}
+.about{
+    font-size: 22;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 10%;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+}
+.pre{
+    font-size: 16;
+    color: white;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 5%;
+    word-spacing: 1px;
+}
+.text4{
+    background-color: rgb(222, 110, 6);
+    margin-left: 65%;
+    margin-right: 9%;
+    height: 250px;
+}
+.contact{
+    font-size: 22;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 10%;
+    word-spacing: 3px;
+    letter-spacing: 1px;
+}
+.mail{
+    background-color: rgb(212, 228, 228);
+    margin-left: 65%;
+    margin-right: 9%;
+    height: 100px;
+    margin-top: -2%;
+}
+.example{
+    font-size: 15;
+    color: rgb(22, 128, 163);
+    text-align: center;
+    padding-top: 10%;
+}
+.our{
+    font-size: 25;
+    color: rgb(57, 130, 133);
+    font-weight: 800;
+    margin-left: 28%;
+    margin-top: -37.5%;
+}
+.one,
+.two,
+.three{
+    font-size: 80;
+    color: rgb(222, 110, 6);
+    font-weight: 800;
+    margin-left: 5%;
+    margin-top: 1%;
+}
+.services,
+.services2,
+.services3{
+    font-size: 20;
+    color: rgb(57, 130, 133);
+    font-weight: 600;
+    margin-left: 13%;
+    margin-top: -7.5%;
+}
+.pre2,
+.pre3,
+.pre4{
+    font-size: 14;
+    color: rgb(73, 115, 117);
+    margin-left: 13%;
+    margin-top: 0%;
+}
+.line{
+    color: rgb(234, 99, 65);
+    border:6px solid;
+    margin-top: 5%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
